@@ -1,5 +1,5 @@
 # Asheville Crime Data
-Analysis of Asheville Crime Data
+Analysis of Asheville Crime Data <br>
 Nicholas Pierson (nmpierson@gmail.com)
 <h2>Introduction</h2>
 
