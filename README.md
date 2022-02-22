@@ -19,6 +19,8 @@ Analysis of Asheville Crime Data
  <p>Viewing the powerpoint summary, map, and output files can be done without running any code. </p>
  <p>In order to replicate the data transformation and geotagging steps, Python is required. The necessary modules
   for running are included in requirements.txt. </p>
- <p> *Note*: the script utilizes the open source Nominatim API to encampment and arrest coordinates. This API
+ <p> Note: the script utilizes the open source Nominatim API to encampment and arrest coordinates. This API
   is capped at ~1 request per second and can therefore be time-consuming. If a faster API is available to you,
   it is recommended to rewrite the location function to utilize the faster API. </p>
+ <p> In order to replicate the mapping steps, Jupyter Notebook and geopandas are required. See https://geopandas.org/en/stable/getting_started/install.html for
+  detailed installation information. </p>
