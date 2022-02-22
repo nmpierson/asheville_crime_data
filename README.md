@@ -24,3 +24,10 @@ Analysis of Asheville Crime Data
   it is recommended to rewrite the location function to utilize the faster API. </p>
  <p> In order to replicate the mapping steps, Jupyter Notebook and geopandas are required. See https://geopandas.org/en/stable/getting_started/install.html for
   detailed installation information. </p>
+
+<h2> Resources </h2>
+
+<p> The apd_original_slides folder contains information previously presented by the Asheville Police Department. </p>
+<p> The source_files folder contains downloads from Asheville's Public Safety data. asheville_crime_data.py loads, cleans, transforms, and analyzes this data. </p>
+<p> The shapefiles folder contains shapefiles for Asheville's city limits, also downloaded from their data portal (Asheville City Limits at https://data-avl.opendata.arcgis.com/search?source=city%20of%20asheville%7C%20north%20carolina&tags=boundaries) <br>
+  Asheville_Mapping.ipynb is a Jupyter notebook using the shapefiles and coordinates mapped from asheville_crime_data.py to create maps of the locations. </p>
