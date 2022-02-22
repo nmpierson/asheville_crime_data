@@ -1,5 +1,6 @@
 # Asheville Crime Data
 Analysis of Asheville Crime Data
+Nicholas Pierson (nmpierson@gmail.com)
 <h2>Introduction</h2>
 
 <p>This repository utilizes Asheville Public Safety data (https://data-avl.opendata.arcgis.com/search?tags=publicsafety)
