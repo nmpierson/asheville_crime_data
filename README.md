@@ -10,8 +10,8 @@ Analysis of Asheville Crime Data
   label as encampments; second with two tables showing select violent and property crime counts within those distances of each encampment. </p>
 
 <p>Our analysis suggests that the police's first claim falls into a correlation vs. causation fallacy. The areas labeled as "large encampments" correspond
-  to densely populated areas across the city. A similar selection of bars and restaurants yields almost identical crime results. <br>
-  We also find that the police's data tables for crimes within 500 and 1000 feet of different encampments drastically overcount crime.
+  to densely populated areas across the city. A similar selection of bars and restaurants yields almost identical crime results. </p>
+<p>We also find that the police's data tables for crimes within 500 and 1000 feet of different encampments drastically overcount crime.
   They do not take into account crimes that occur within the radius of more than one encampment; as a result, arrests are overcounted by 25% within 500 feet
   and 106% within 1000 feet. </p>
   
