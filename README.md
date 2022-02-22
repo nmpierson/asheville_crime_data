@@ -27,7 +27,9 @@ Analysis of Asheville Crime Data
 
 <h2> Resources </h2>
 
+<p> The Asheville Crime Analysis powerpoint contains a summary of findings, and visualizations. </p>
 <p> The apd_original_slides folder contains information previously presented by the Asheville Police Department. </p>
-<p> The source_files folder contains downloads from Asheville's Public Safety data. asheville_crime_data.py loads, cleans, transforms, and analyzes this data. </p>
+<p> The source_files folder contains downloads from Asheville's Public Safety data. asheville_crime_data.py loads, cleans, transforms, and analyzes this data. <br>
+  asheville_crime_data.py writes to the output folder.</p>
 <p> The shapefiles folder contains shapefiles for Asheville's city limits, also downloaded from their data portal (Asheville City Limits at https://data-avl.opendata.arcgis.com/search?source=city%20of%20asheville%7C%20north%20carolina&tags=boundaries) <br>
-  Asheville_Mapping.ipynb is a Jupyter notebook using the shapefiles and coordinates mapped from asheville_crime_data.py to create maps of the locations. </p>
+  Asheville_Mapping.ipynb is a Jupyter notebook using the shapefiles and coordinates mapped from asheville_crime_data.py to create maps of the locations. Several of these maps     were manually saved and committed to the maps folder.</p>
