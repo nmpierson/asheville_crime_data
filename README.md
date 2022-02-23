@@ -21,7 +21,7 @@ Nicholas Pierson (nmpierson@gmail.com)
   over the past two years in a recent press release. Our analysis uses Arrest information, 15,015 total. This is not a perfect replication; therefore we 
   encourage the Asheville PD to release a full summary of the metrics they use to arrive at total crime, as well as a full summary of the data they 
   used to create their recent press releases. </p>
- <p> Not all crimes were able to be geotagged from police address report to latitude and longitude coordinates using API calls. However, with approximately 90% matched, the    dataset should be strongly representative. </p>
+ <p> Not all crimes were able to be geotagged from police address report to link latitude and longitude coordinates using API calls. However, with approximately 90% matched, the    dataset should be strongly representative. </p>
   
  <h2>Requirements</h2>
  <p>Viewing the powerpoint summary, map, and output files can be done without running any code. </p>
