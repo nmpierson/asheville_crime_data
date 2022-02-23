@@ -14,7 +14,7 @@ Nicholas Pierson (nmpierson@gmail.com)
   to densely populated areas across the city. A similar selection of bars and restaurants yields almost identical crime results. </p>
 <p>We also find that the police's data tables for crimes within 500 and 1000 feet of different encampments drastically overcount crime.
   They do not take into account crimes that occur within the radius of more than one encampment; as a result, arrests are overcounted by 25% within 500 feet
-  and 106% within 1000 feet. </p>
+  and nearly 107% within 1000 feet. </p>
   
  <h2> Limitations </h2>
  <p> While arrest and 911 call data are both publicly available, it is not clear what exactly constitutes "Total Crime." Police cited 22,611 total crimes
